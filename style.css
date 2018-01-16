@@ -1,0 +1,16 @@
+body {
+  background: green;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  width: 300px;
+}
